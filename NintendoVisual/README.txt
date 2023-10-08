@@ -1,7 +1,3 @@
-NAME: Nathan Li Chau
-EMAIL: nlchau@uci.edu
-STUDENT ID: 19945653
-
 For Workout Project 4, I decided to use two APIs to use as data for my graphs. The main function contains the interactive
 functionality for the code. When initially ran, the code will generate the data by using the REST APIs to scrape from the
 web. Afterwards, the user is prompted to choose a dataset to graph. There are three options: "Pokemon", "Smash", or "Quit."
